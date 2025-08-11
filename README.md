@@ -1,3 +1,11 @@
+<style>
+table {
+  margin: 0 auto;
+  width: 80%;
+  text-align: center;
+}
+</style>
+
 <br clear="both">
 
 <h2 align="center">Hi 👋! My name is Roberto and I'm a Fullstack dev from Guatemala</h2>
@@ -50,7 +58,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=romagaco&show_icons=true&locale=en&layout=compact" alt="romagaco" />
 </p>
 
-<table>
+<table style="margin: 0 auto; width: 80%; text-align: center;">
 <tr>
 <td><img src="https://www.python.org/static/community_logos/python-logo.png" width="50" height="auto"></td>
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="50" height="auto"></td>
