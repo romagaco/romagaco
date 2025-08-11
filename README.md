@@ -1,10 +1,3 @@
-<style>
-table {
-  margin: 0 auto;
-  width: 80%;
-  text-align: center;
-}
-</style>
 
 <br clear="both">
 
